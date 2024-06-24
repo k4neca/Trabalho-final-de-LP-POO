@@ -1,7 +1,8 @@
 # Teleco Store
 
-![Logo](https://github.com/k4neca/Trabalho-final-de-LP-POO/blob/main/src/Imagens/telecoStore.png)
-
+<p align="center">
+  ![Logo](https://github.com/k4neca/Trabalho-final-de-LP-POO/blob/main/src/Imagens/telecoStore.png)
+</p>
 ## Objetivo do Projeto
 
 O projeto tem por objetivo criar um e-comerce em Java utilizando Swing para criar a Teleco Store, uma loja ficticia de celulares.
@@ -31,10 +32,10 @@ Também houve dificuldade com relação aos pilares da Orientação a Objetos.
 
 ## Pontos a serem Melhorados
 
--Encapsulamento das classes;
--Delegação de tarefas individuais para os métodos criados;
--Conexão das informações dos produtos e dos pedidos com o banco de dados;
--Criar um paínel de administrador para controle dos produtos diretemante na interface ao invés do DBeaver;
+- Encapsulamento das classes;
+- Delegação de tarefas individuais para os métodos criados;
+- Conexão das informações dos produtos e dos pedidos com o banco de dados;
+- Criar um paínel de administrador para controle dos produtos diretemante na interface ao invés do DBeaver;
 
 ## Agradecimentos
 
