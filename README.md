@@ -1,5 +1,7 @@
 # Teleco Store
 
+![Logo](https://github.com/k4neca/Trabalho-final-de-LP-POO/blob/main/src/Imagens/telecoStore.png)
+
 ## Objetivo do Projeto
 
 O projeto tem por objetivo criar um e-comerce em Java utilizando Swing para criar a Teleco Store, uma loja ficticia de celulares.
@@ -17,6 +19,8 @@ Cada clique no botão "Carrinho" adiciona uma unidade do item ao carrinho, que p
 Clicando em finalizar pedido você será direcionado a tela de pagamento. Nessa tela é possível escolher a forma de envio ou retirada em alguma das lojas cadastradas. Também é possível escolher uma forma de pagamento (pix, crédito e débito).
 Existe novamente no canto inferior da tela um paínel com os itens selecionados.
 Clique em finalizar compra para finalizar a operação.
+
+[Apresentação do projeto](https://youtu.be/SFZeWPrh_go?si=lGZasqkgO-Jx_EBX)
 
 ## Dificuldades
 
