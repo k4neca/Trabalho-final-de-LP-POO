@@ -1,8 +1,7 @@
 # Teleco Store
 
-<p align="center">
-  ![Logo](https://github.com/k4neca/Trabalho-final-de-LP-POO/blob/main/src/Imagens/telecoStore.png)
-</p>
+![Logo](https://github.com/k4neca/Trabalho-final-de-LP-POO/blob/main/src/Imagens/telecoStore.png)
+
 ## Objetivo do Projeto
 
 O projeto tem por objetivo criar um e-comerce em Java utilizando Swing para criar a Teleco Store, uma loja ficticia de celulares.
