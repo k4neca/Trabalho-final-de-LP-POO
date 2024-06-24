@@ -20,7 +20,9 @@ Clicando em finalizar pedido você será direcionado a tela de pagamento. Nessa 
 Existe novamente no canto inferior da tela um paínel com os itens selecionados.
 Clique em finalizar compra para finalizar a operação.
 
-[Apresentação do projeto](https://youtu.be/SFZeWPrh_go?si=lGZasqkgO-Jx_EBX)
+![Gif de apresentação](https://github.com/k4neca/Trabalho-final-de-LP-POO/blob/main/Trabalho%20LP_POO.gif)
+
+Para uma melhor visualização assista no youtube: [Apresentação do projeto](https://youtu.be/SFZeWPrh_go?si=lGZasqkgO-Jx_EBX)
 
 ## Dificuldades
 
@@ -29,10 +31,10 @@ Também houve dificuldade com relação aos pilares da Orientação a Objetos.
 
 ## Pontos a serem Melhorados
 
-Encapsulamento das classes;
-Delegação de tarefas individuais para os métodos criados;
-Conexão das informações dos produtos e dos pedidos com o banco de dados;
-Criar um paínel de administrador para controle dos produtos diretemante na interface ao invés do DBeaver;
+-Encapsulamento das classes;
+-Delegação de tarefas individuais para os métodos criados;
+-Conexão das informações dos produtos e dos pedidos com o banco de dados;
+-Criar um paínel de administrador para controle dos produtos diretemante na interface ao invés do DBeaver;
 
 ## Agradecimentos
 
