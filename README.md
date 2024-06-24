@@ -29,7 +29,7 @@ Para uma melhor visualização assista no youtube: [Apresentação do projeto](h
 Devido a falta de experiência em desenvolvimento de um sistema mais complexo houve uma certa dificuldade em conectar o banco de dados com a aplicação sendo assim necessária a utilização de ArrayList para o funcionamento do código.
 Também houve dificuldade com relação aos pilares da Orientação a Objetos.
 
-## Pontos a serem Melhorados
+## Pontos a serem melhorados
 
 - Encapsulamento das classes;
 - Delegação de tarefas individuais para os métodos criados;
